@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Unreal_Projects/TankBattle/TankBattle/.vscode": true,
+		"D:/Unreal_Projects/TankBattle/TankBattle/Content": true,
+		"D:/Unreal_Projects/TankBattle/TankBattle/Intermediate": true
+	}
+}
